@@ -1,0 +1,11 @@
+id,board_id,name,position
+list1,board1,Доделать,1
+list2,board1,В процессе,2
+list3,board1,Завершено,3
+list4,board2,Доделать,1
+list5,board2,В процессе,2
+list6,board3,Доделать,1
+list7,board3,В процессе,2
+list8,board4,Завершено,3
+list9,board5,Доделать,1
+list10,board5,В процессе,2

@@ -1,0 +1,11 @@
+id,content,created_at,user_id,card_id,attachment
+comment1,Комментарий 1,2024-12-01T11:00:00,user1,card1,file1.pdf
+comment2,Комментарий 2,2024-12-02T12:00:00,user2,card2,file2.pdf
+comment3,Комментарий 3,2024-12-03T13:00:00,user3,card3,file3.pdf
+comment4,Комментарий 4,2024-12-04T14:00:00,user4,card4,file4.pdf
+comment5,Комментарий 5,2024-12-05T15:00:00,user5,card5,file5.pdf
+comment6,Комментарий 6,2024-12-06T16:00:00,user6,card6,file6.pdf
+comment7,Комментарий 7,2024-12-07T17:00:00,user7,card7,file7.pdf
+comment8,Комментарий 8,2024-12-08T18:00:00,user8,card8,file8.pdf
+comment9,Комментарий 9,2024-12-09T19:00:00,user9,card9,file9.pdf
+comment10,Комментарий 10,2024-12-10T20:00:00,user10,card10,file10.pdf
